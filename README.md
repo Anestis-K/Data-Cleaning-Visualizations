@@ -6,6 +6,9 @@ a data cleaning project <br>
 
 Libraries
 
+![Libraries](https://user-images.githubusercontent.com/47696240/95606264-bf732800-0a62-11eb-9b8f-ea63f7d6a3d6.png)
+
+
 <br>
 
 
@@ -20,3 +23,5 @@ from Kaggle and it includes all the netflix movies and TV shows<br>
 <br>
 
 Image of  the head of data  
+
+![df head](https://user-images.githubusercontent.com/47696240/95606258-bd10ce00-0a62-11eb-92be-72dd277cc53e.png)
